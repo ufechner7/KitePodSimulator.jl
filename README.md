@@ -1,3 +1,6 @@
+# THIS PACKAGE WAS REPLACED BY the package KitePodModels
+Do not use this package any longer!
+
 # KitePodSimulator
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://ufechner7.github.io/KitePodSimulator.jl/stable)
